@@ -1,0 +1,48 @@
+{
+  "app": {
+    "title": "Club Management Admin"
+  },
+  "preferences": {
+    "language": "Idioma: português",
+    "languageLabel": "Usar inglês",
+    "darkTheme": "Tema escuro"
+  },
+  "login": {
+    "title": "Entrar",
+    "email": "Email",
+    "password": "Senha",
+    "submit": "Entrar",
+    "forgotPassword": "Esqueci a senha",
+    "invalidCredentials": "Email ou senha inválidos. Depois de 3 tentativas erradas, enviamos um email para a conta.",
+    "unavailable": "Não foi possível entrar agora. Tente novamente em instantes.",
+    "sessionExpired": "Sua sessão expirou. Entre novamente."
+  },
+  "forgotPassword": {
+    "title": "Esqueci a senha",
+    "description": "Informe seu email para receber um link de redefinição.",
+    "submit": "Enviar link",
+    "sent": "Se o email estiver cadastrado, enviaremos um link para criar uma nova senha.",
+    "unavailable": "Não foi possível enviar agora. Tente novamente em instantes.",
+    "backToLogin": "Voltar para o login"
+  },
+  "resetPassword": {
+    "title": "Criar nova senha",
+    "password": "Nova senha",
+    "confirmation": "Confirmar nova senha",
+    "submit": "Salvar senha",
+    "mismatch": "As senhas não são iguais.",
+    "weak": "A senha precisa ter pelo menos 8 caracteres.",
+    "invalidLink": "Este link é inválido, expirou ou já foi usado.",
+    "requestAnother": "Pedir outro link",
+    "unavailable": "Não foi possível salvar agora. Tente novamente em instantes.",
+    "success": "Senha alterada. Entre com a nova senha."
+  },
+  "validation": {
+    "required": "Campo obrigatório.",
+    "email": "Informe um email válido.",
+    "tooLong": "O texto é longo demais."
+  },
+  "home": {
+    "greeting": "Olá, {{name}}"
+  }
+}

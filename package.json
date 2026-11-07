@@ -18,9 +18,13 @@
     "@emotion/react": "^11.14.0",
     "@emotion/styled": "^11.14.1",
     "@mui/material": "^9.5.0",
+    "i18next": "^26.7.2",
     "react": "^19.3.1",
     "react-dom": "^19.3.1",
-    "swr": "^2.5.1"
+    "react-i18next": "^17.1.13",
+    "react-router": "^8.5.1",
+    "swr": "^2.5.1",
+    "zod": "^4.6.7"
   },
   "devDependencies": {
     "@eslint/js": "^10.0.1",
@@ -45,6 +49,7 @@
     "http-server": "^14.1.1",
     "jest": "^30.5.2",
     "jest-environment-jsdom": "^30.5.2",
+    "jest-fixed-jsdom": "^0.0.11",
     "playwright": "^1.65.0",
     "storybook": "^10.6.6",
     "typescript": "~6.0.3",
